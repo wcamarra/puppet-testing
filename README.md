@@ -1,0 +1,1 @@
+Hello there. If you are reading this that means you have found my puppet repo. I am just using this for testing as I am working on learning how to use puppet. I decided to version control my modules with GitHub. On the off chance anything that I make here is useful, please enjoy!
